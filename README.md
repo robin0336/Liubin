@@ -1,4 +1,5 @@
 Introduction
+
 Background: Electrical storm (ES) is a heterogeneous clinical emergency that can present with malignant ventricular arrhythmias such as ventricular fibrillation (VF),
 ventricular tachycardia (VT), requiring the need for cardiac defibrillation. ES is a life-threatening condition with a high mortality rate. Successfully managing ES
 in the setting of acute myocardial infarction（MI）is expected to be known by physicians on call to reduce in-hospital mortality.
